@@ -1,0 +1,5 @@
+TODO: find out which planets have usable moons
+
+Mars: 2 - Phobos and Deimos
+Earth: 1
+Jupiter: lots!
