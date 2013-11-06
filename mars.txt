@@ -3,3 +3,4 @@ Has two moons, not spherical - Phobos, Deimos.
 Has ice caps - possible water source. 
 Thin atmosphere.
 Lots of dust.
+TODO: check atmosphere composition
